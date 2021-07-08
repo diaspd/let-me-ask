@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br></br>
 
-## 💻 Project
+## 📄 Project
 💰 Neste projeto fizemos um projeto com funcionalidades de criar salas e criar perguntas e responde-las
 
 <br></br>
