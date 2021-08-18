@@ -44,7 +44,7 @@ The app will be available for access on your browser at http://localhost:3000
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
