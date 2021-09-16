@@ -53,7 +53,8 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 📄 Project
-💰 Neste projeto fizemos um projeto com funcionalidades de criar salas e criar perguntas e responde-las
+💰 
+In this project we made a project with features to create rooms and create questions and answer them.
 
 <br></br>
 
