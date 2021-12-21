@@ -54,7 +54,7 @@ This project was developed with the following technologies:
 
 ## 📄 Project
 💰 
-In this project we made a project with features to create rooms and create questions and answer them.
+In this project we made a project with features to create rooms, questions and answer them.
 
 <br></br>
 
