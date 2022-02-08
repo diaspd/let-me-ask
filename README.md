@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#-tecnologias"><b>Tecnologias</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto"><b>Projeto</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
