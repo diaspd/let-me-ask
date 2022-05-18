@@ -69,7 +69,7 @@ You can view the project layout through the links below:
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 <br></br>
-Feito com ♥ by Pedro Dias 👋 Me siga nas redes sociais! <br></br>
+Made with ♥ by Pedro Dias 👋 Me siga nas redes sociais! <br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
 https://www.facebook.com/PedroDias24/<br></br>
 https://twitter.com/diaspdr_1<br></br>
