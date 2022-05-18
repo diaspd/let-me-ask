@@ -9,8 +9,8 @@
 <br></br>
 
 <p align="center">
-  <a href="#-tecnologias"><b>Tecnologias</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto"><b>Projeto</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -47,9 +47,11 @@ The app will be available for access on your browser at http://localhost:3000
 This project was developed with the following technologies:
 
 <b>
+  
 - React
 - Firebase
 - TypeScript
+  
 </b>
 
 <br></br>
