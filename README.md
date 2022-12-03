@@ -74,10 +74,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 <br></br>
 Made with ♥ by Pedro Dias 👋 Me siga nas redes sociais! <br></br>
-https://www.instagram.com/dias_pdr/ <br></br>
-https://www.facebook.com/PedroDias24/<br></br>
-https://twitter.com/diaspdr_1<br></br>
-https://www.twitch.tv/diasgm_pdr<br></br>
 
 
 If you can give a little star, I appreciate it 🤩
