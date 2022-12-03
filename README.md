@@ -26,7 +26,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/Let-Me-Ask.git
+$ git clone https://github.com/diaspd/let-me-ask.git
 $ cd letmeask
 ```
 
