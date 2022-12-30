@@ -34,7 +34,6 @@ Follow the steps below:
 ```bash
 # Install the dependencies
 $ npm i
-$ npm i sass
 
 # Start the project
 $ npm start
