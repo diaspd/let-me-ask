@@ -38,7 +38,7 @@ $ npm i
 # Start the project
 $ npm start
 ```
-The app will be available for access on your browser at http://localhost:3000
+The app will be available for access on your browser at `http://localhost:3000` <br/>
 Remeber that you need an account on Firebase and a project to allow a realtime database. 
 
 <br></br>
