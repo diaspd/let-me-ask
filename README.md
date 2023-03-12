@@ -6,7 +6,7 @@
   https://letmeask-88cb8.web.app/
 </h2>
 
-<br></br>
+</br>
 
 <p align="center">
   <a href="#-technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
