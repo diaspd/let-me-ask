@@ -2,9 +2,9 @@
   Let Me Ask
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   https://letmeask-88cb8.web.app/
-</h1>
+</h2>
 
 <br></br>
 
