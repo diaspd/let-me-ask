@@ -47,20 +47,16 @@ Remeber that you need an account on Firebase and a project to allow a realtime d
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
 <b>
-  
 - React
 - Firebase
 - TypeScript
-  
 </b>
 
-<br></br>
+</br>
 
 ## 📄 Project
-💰 
-In this project we made a project with features to create rooms, questions and answer them.
+💰 In this project we made a project with features to create rooms, questions and answer them.
 
 <br></br>
 
@@ -73,7 +69,7 @@ You can view the project layout through the links below:
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 <br></br>
-Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
 
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
