@@ -6,15 +6,13 @@
   https://letmeask-88cb8.web.app/
 </h2>
 
-</br>
-
 <p align="center">
   <a href="#-technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+---
 
 <div align="center">
   <img alt="" title="" src="./img.png" width="100%"/>
