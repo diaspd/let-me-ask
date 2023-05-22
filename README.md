@@ -1,9 +1,9 @@
 <h1 align="center">
-  Let Me Ask
+  <img src="./src/assets/images/logo.svg" alt="logo" width="20%" />
 </h1>
 
 <h2 align="center">
-  [Let Me Ask](https://letmeask-88cb8.web.app/) 
+  Link to project <a href="https://letmeask-88cb8.web.app/" target="_blank">Let me Ask</a>
 </h2>
 
 <p align="center">
