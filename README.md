@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Link to project <a href="https://letmeask-88cb8.web.app/" target="_blank">Let me Ask</a>
+  Link to project: <a href="https://letmeask-88cb8.web.app/" target="_blank">Let me Ask</a>
 </h2>
 
 <p align="center">
