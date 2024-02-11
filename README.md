@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img alt="" title="" src="./img.png" width="100%"/>
+  <img alt="" title="" src="./public/template.svg" width="100%"/>
 </div>
 
 </br>
